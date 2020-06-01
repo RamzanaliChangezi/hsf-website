@@ -1,0 +1,182 @@
+
+.bg-img-header
+{
+  background-image: url('../img/student.jpg');
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  
+  height: 650px;
+  
+}
+.bg-img-filter
+{
+  background-image: linear-gradient(90deg, rgba(0, 0, 0, 0.68) , rgba(85, 85, 85, 0.52), rgba(0, 0, 0, 0.68));
+  height: 650px;
+}
+
+.ht-100
+{
+  height: 100vh;
+}
+.h-550x
+{
+  height: 550px;
+}
+
+
+/*-------------------- fonts ---------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Bree+Serif&family=Didact+Gothic&family=Hammersmith+One&family=Libre+Baskerville&family=Montserrat&family=Nunito&family=Poiret+One&family=Quicksand:wght@500&family=Raleway&family=Sacramento&family=Tajawal&family=Tenali+Ramakrishna&family=Viga&display=swap');
+.font-acme{
+  font-family: 'Acme', sans-serif;
+}
+
+.font-bree
+{
+  font-family: 'Bree Serif', serif;
+}
+
+.font-didact
+{
+  font-family: 'Didact Gothic', sans-serif;
+}
+
+.font-hammersmith
+{
+  font-family: 'Hammersmith One', sans-serif; 
+}
+
+.font-libre
+{
+  font-family: 'Libre Baskerville', serif;  
+}
+.font-montserrat
+{
+  font-family: 'Montserrat', sans-serif;
+}
+.font-nunito
+{
+  font-family: 'Nunito', sans-serif;
+}
+
+.font-poiret
+{
+  font-family: 'Poiret One', cursive;
+}
+.font-quicksand
+{
+  font-family: 'Quicksand', sans-serif;
+}
+.font-raleway
+{
+  font-family: 'Raleway', sans-serif;
+}
+.font-sacramento
+{
+  font-family: 'Sacramento', cursive;
+}
+
+.font-tajawal
+{
+  font-family: 'Tajawal', sans-serif;
+}
+.font-tenali
+{
+  font-family: 'Tenali Ramakrishna', sans-serif;
+}
+.font-viga
+{
+  font-family: 'Viga', sans-serif;
+}
+
+/*--------------------- serif fonts ---------------- */
+@import url('https://fonts.googleapis.com/css2?family=Arvo&family=Merriweather&family=Roboto+Slab&family=Scope+One&family=Zilla+Slab&display=swap');
+.font-arvo
+{
+
+font-family: 'Arvo';
+  
+}
+.font-merriweather
+{
+font-family: 'Merriweather';
+}
+.font-roboto
+{
+font-family: 'Roboto Slab';
+  
+}
+.font-scope
+{
+font-family: 'Scope One';
+  
+}
+.font-zilla
+{
+font-family: 'Zilla Slab';
+  
+}
+
+.bg-light-eee
+{
+  background: #e6e6e6;
+}
+footer, html
+{
+  background: #e6e6e6;
+}
+html
+{
+  scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+
+/*--------- SMALLER THAN SM SCREENS -------- */
+@media (max-width: 575.98px) {
+
+
+  .display-none-sm
+  {
+    display: none;
+  }
+
+}
+@media (min-width: 575.98px )
+{
+  .display-none-md
+  {
+    display: none !important;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
